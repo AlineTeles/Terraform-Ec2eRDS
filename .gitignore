@@ -1,5 +1,4 @@
-aws_key*
-azure_key*
+aws-key*
 .terraform*
 *.out   
 *.tfvars
